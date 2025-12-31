@@ -33,9 +33,7 @@ This project follows the **"Lifting State Up"** pattern. All core logic resides 
 
 ## 👨‍💻 Developed By
 
-**DINESH** 
-
-
+**DINESH**<br>
 *Frontend Developer*
 
 ---
