@@ -5,7 +5,7 @@ A sleek, responsive, and logic-heavy Tip Calculator built with **React** and **T
 
 
 ## 🚀 Live Demo
-**Check it out here:** [👉 [PASTE_YOUR_NETLIFY_URL_HERE]]([PASTE_YOUR_NETLIFY_URL_HERE])
+**Check it out here:** https://dinesh-bill-counter-app.netlify.app/
 
 ---
 
@@ -34,6 +34,8 @@ This project follows the **"Lifting State Up"** pattern. All core logic resides 
 ## 👨‍💻 Developed By
 
 **DINESH** 
+
+
 *Frontend Developer*
 
 ---
